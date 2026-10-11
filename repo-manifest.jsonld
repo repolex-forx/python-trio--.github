@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/python-trio/.github",
+  "@type": "gh:Repository",
+  "gh:name": ".github",
+  "gh:owner": "python-trio",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/python-trio/.github/commit/840f9da8937aaa47bb87054f60837481eed7bf91",
+      "git:hexsha": "840f9da8937aaa47bb87054f60837481eed7bf91",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
